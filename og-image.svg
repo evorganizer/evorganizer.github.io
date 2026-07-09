@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="1000"
-   height="1000"
-   viewBox="0 0 1000 1000"
+   width="1200"
+   height="630"
+   viewBox="0 0 1200 630"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
@@ -14,7 +14,7 @@
      id="defs1" />
   <g
      id="layer1"
-     style="display:none;fill:#1b565a;fill-opacity:1"
+     style="display:inline;fill:#1b565a;fill-opacity:1"
      transform="matrix(2.1796857,0,0,2.1796857,-724.98309,-307.26482)">
     <rect
        style="opacity:0.92;fill:#ffffff;fill-opacity:1;stroke:#8b8b8b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
@@ -29,7 +29,7 @@
        id="path1" />
     <g
        id="g5-1"
-       transform="matrix(0.62007901,0,0,0.62007901,441.40133,73.35513)"
+       transform="matrix(0.52210483,0,0,0.52210483,467.70551,123.11631)"
        style="fill:#1b565a;fill-opacity:1">
       <text
          xml:space="preserve"
@@ -55,26 +55,13 @@
        y="0"
        xlink:href="#g11"
        id="use23"
-       style="display:inline;fill:#1b565a;fill-opacity:1" />
+       style="display:inline;fill:#1b565a;fill-opacity:1"
+       transform="matrix(0.5366953,0,0,0.5366953,305.89411,67.904839)" />
   </g>
   <g
      id="g14"
-     style="display:inline;fill:#1b565a;fill-opacity:1"
+     style="display:none;fill:#1b565a;fill-opacity:1"
      transform="matrix(2.1796857,0,0,2.1796857,-724.98309,-307.26482)">
-    <ellipse
-       style="display:none;opacity:0.92;fill:#ffffff;fill-opacity:1;stroke:#8b8b8b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="path15"
-       cx="707.60596"
-       cy="225.86087"
-       rx="61.472694"
-       ry="58.040428" />
-    <rect
-       style="display:none;opacity:0.92;fill:#ffffff;fill-opacity:1;stroke:#8b8b8b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
-       id="rect9"
-       width="390.41745"
-       height="315.05316"
-       x="376.82611"
-       y="213.3203" />
     <path
        style="display:none;opacity:0.92;fill:#1b565a;fill-opacity:1;stroke:#8b8b8b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
        d="m 1203.6265,411.08285 62.8705,-131.36397 c -6.8968,-6.69267 -18.8298,-12.5704 -24.6307,-12.85525 l -147.0284,-0.18416 c -17.4099,1.0786 -38.9164,20.72475 -40.0757,42.90597 l 0.1019,150.57555 c 0.3747,11.65797 17.4373,37.37596 42.7397,39.66134 l 143.0205,0.23049 c 15.0313,-1.10309 38.7177,-12.04453 41.2746,-42.03098 l 0.1833,-150.47368 c -0.401,-3.28435 -1.5533,-6.3672 -2.9337,-9.18815 -23.0761,45.42099 -44.6083,91.60084 -66.8432,137.43508 l -18.5393,-0.0408 c -21.6548,-44.59907 -13.3222,-29.42241 -34.7356,-73.62738 l 22.3286,-0.0204 c 4.9577,11.49523 17.7692,39.84849 22.2675,48.97634 z M 94.403399,523.48047 h 11.919951 l 1.12923,2.88448 9.85414,24.84219 0.21392,0.56025 11.85751,-28.33401 11.43818,0.0432 -18.01913,43.81489 -10.75685,-0.0305 z"
